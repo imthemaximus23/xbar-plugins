@@ -13,7 +13,8 @@
 
 //👋👋👋 Change the following varaibles to best suit your needs.
 const key = "<YOUR-KEY-HERE>";
-const channelName = "PewDiePie";
+const channelName = "
+Maximus Films";
 const color = "white";
 
 //<--- DO NOT EDIT THE CODE BELOW THIS LINE. --->
